@@ -1,3 +1,4 @@
+// Code reviewed by @professorgordon
 //Dylan Campbell
 import java.util.Scanner;
 public class ContactCard
