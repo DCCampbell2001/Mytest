@@ -1,3 +1,4 @@
+//Code reviewed by Dylan Campbell for Eclipse + GitHub assignment
 // Code reviewed by @professorgordon
 //Dylan Campbell
 import java.util.Scanner;
